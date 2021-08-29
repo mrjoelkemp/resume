@@ -11,6 +11,7 @@ B.S. Computer Science and Minor in English, The City College of New York, Cum La
 ## Software Development Experience
 
 Staff Software Engineer, Spotify, 04/2018 - Present
+* Serving as the architect (engineering lead) for a new, sponsored recommendation ad format to promote artists' work. This 1+ year effort spans 3 business units (8+ squads).
 * Led the adoption and case building of Phoenix Liveview and the BEAM VM for internal applications. Grew a grassroots BEAM community from 3 to 35+ people. Wrote a 26 page RFC analyzing the BEAM VM across numerous technical dimensions to prove its superiority in building high-traffic, highly concurrent systems.
 * Served as the lead architect for a year-long effort to build and launch a self-serve ad marketplace in Spotify for Artists, spanning 3+ missions and 7+ squads. We shipped our most complex effort on time due to my involvement.
 * Led the monolith to microservices transition for Spotify Ad Studio; an effort spanning 5 teams.
