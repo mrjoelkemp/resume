@@ -11,6 +11,7 @@ B.S. Computer Science and Minor in English, The City College of New York, Cum La
 ## Software Development Experience
 
 Senior Staff Software Engineer, Spotify, 09/2022 - Present
+* Serving as the lead architect for a company-wide initiative to unify multiple ad servers.
 
 Staff Software Engineer, Spotify, 04/2018 - 09/2022
 * Served as the architect (engineering lead) for a new, sponsored recommendation ad format to promote artists' work. This 1+ year effort spans 4 business units (8+ squads).
